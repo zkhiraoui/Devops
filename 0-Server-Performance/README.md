@@ -52,11 +52,7 @@ sudo apt-get install sysstat bc
 
 ## Installation
 
-1. Clone this repository or download the script:
-
-```sh
-git clone [repository-url]
-```
+1. Download the script.
 
 2. Make the script executable:
 
