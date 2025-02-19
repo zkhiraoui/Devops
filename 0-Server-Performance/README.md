@@ -1,6 +1,10 @@
-# Server Statistics Analysis Script
+# Server Performance Stats Script
 
-A comprehensive Bash script for analyzing and monitoring Linux server performance metrics. This script provides essential information about system resources, processes, and performance statistics in an easy-to-read format.
+This script, `server-stats.sh`, is a Bash script designed to analyze basic server performance statistics on Linux systems.  It provides insights into CPU usage, memory usage, disk usage, and top resource-consuming processes, along with other useful information.
+
+## Project URL
+
+https://roadmap.sh/projects/server-stats
 
 ## Features
 
