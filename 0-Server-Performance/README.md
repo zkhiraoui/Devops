@@ -67,9 +67,9 @@ chmod +x server-stats.sh
 
 ## Usage
 
-3. Run the script with:
+Run the script with:
 
-´´´sh
+```sh
 ./server-stats.sh
 ```
 
